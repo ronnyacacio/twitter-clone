@@ -15,20 +15,20 @@ const SideBar: React.FC = () => {
       <StickyBox>
         <Body>
           <List
-            title="Talvez você curta"
+            title="Quem seguir"
             elements={[
               <FollowSuggestion name="Diego Fernandes" nickname="@diego3g" />,
-              <FollowSuggestion name="Luke Morales" nickname="@lukemorales" />,
-              <FollowSuggestion name="Camila Magalhães" nickname="@camilaamgl" />
+              <FollowSuggestion name="Cristiano Ronaldo" nickname="@Cristiano" />,
+              <FollowSuggestion name="Guilherme Rodz" nickname="@guilherme_rodz" />
             ]}
           />
 
           <List
-            title="Talvez você curta"
+            title="O que está acontecendo"
             elements={[
-              <News />,
-              <News />,
-              <News />
+              <News title="Covid-19" description="Saiba como se proteger do vírus" />,
+              <News title="Rocketseat" description="Site de educação em tecnologia abre a nova turma do seu bootcamp" />,
+              <News title="GitHub" description="Plataforma disponibiliza nova função para o Readme.md" />
             ]}
           />
         </Body>

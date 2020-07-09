@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="YouTubeClone" title="#delicinha" src="./.github/twitter.svg" width="200px" />
+  <img alt="YouTubeClone" title="#delicinha" src="./.github/twitter.svg" width="150px" />
 </h1>
 
 <p align="center">
