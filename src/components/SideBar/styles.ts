@@ -14,15 +14,15 @@ export const Container = styled.div`
 `;
 
 export const SearchWrapper = styled.div`
-  padding: 10px 24px;
+  padding: 12px 24px;
   width: min(399px, 100%);
   background: var(--primary);
 
-  display: fixed;
+  position: sticky;
   top: 0;
   z-index: 2;
 
-  max-height: 57px;
+  max-height: 60px;
 `;
 
 export const SearchInput = styled.input`
@@ -32,7 +32,7 @@ export const SearchInput = styled.input`
   font-size: 14px;
   padding: 0 10px 0 52px;
   background: var(--search);
-  border-radius: 19px;
+  border-radius: 19.5px;
   outline: 0;
 
   &::placeholder {
@@ -41,6 +41,7 @@ export const SearchInput = styled.input`
 
   &:focus {
     border: 1px solid var(--twitter);
+    background: var(--primary);
 
     ~ svg {
       fill: var(--twitter);
@@ -67,7 +68,7 @@ export const SearchIcon = styled(Search)`
 export const Body = styled.div`
   display: flex;
   flex-direction: column;
-  padding: 57px 24px 200px;
+  padding: 8px 24px 200px;
   margin-top: 3px;
 
   > div + div {

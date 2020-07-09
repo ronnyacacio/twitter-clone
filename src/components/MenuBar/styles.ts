@@ -109,6 +109,7 @@ export const MenuButton = styled.button`
       font-weight: bold;
     }
     padding-right: 15px;
+    padding-left: 15px;
   }
 `;
 

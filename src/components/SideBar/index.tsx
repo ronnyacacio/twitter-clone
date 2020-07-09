@@ -8,7 +8,7 @@ const SideBar: React.FC = () => {
   return (
     <Container>
       <SearchWrapper>
-        <SearchInput placeholder="Buscar no twitter" />
+        <SearchInput placeholder="Buscar no Twitter" />
         <SearchIcon />
       </SearchWrapper>
 
