@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="YouTubeClone" title="#delicinha" src="./.github/twitter.svg" width="200px" />
+  <img alt="TwitterClone" title="#delicinha" src="./.github/twitter.svg" width="200px" />
 </h1>
 
 <p align="center">
@@ -32,7 +32,7 @@
 
 ## 💻 Projeto
 
-Esse projeto foi feito para treinar a minha habilidade de criação de UI's com ReactJS e CSS, foi escolhido o twitter por conta da sua interface cheia de diferentes componentes, aplicando ainda responsividade para ser suportado por todos os dispositivos! Sendo assim seria muito produtivo realizar esse clone! Acesse aqui [Twitter-clone](#)
+Esse projeto foi feito para treinar a minha habilidade de criação de UI's com ReactJS e CSS, foi escolhido o twitter por conta da sua interface cheia de diferentes componentes, aplicando ainda responsividade para ser suportado por todos os dispositivos! Sendo assim seria muito produtivo realizar esse clone! Acesse aqui [Twitter-clone](https://ronnyacacio-twitter-clone.netlify.app)
 
 <br />
 
