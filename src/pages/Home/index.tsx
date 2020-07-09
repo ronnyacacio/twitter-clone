@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { MenuBar, Main } from '../../components';
+import { MenuBar, Main, SideBar } from '../../components';
 import { Container, Wrapper } from './styles';
 
 const Home: React.FC = () => {
@@ -11,7 +11,7 @@ const Home: React.FC = () => {
 
         <Main />
 
-        {/* <SideBar /> */}
+        <SideBar />
       </Wrapper>
     </Container>
   );
