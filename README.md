@@ -54,6 +54,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔨 Deploy Netlify
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/78c60063-665b-4bd0-b13a-28ba9b84752a/deploy-status)](https://app.netlify.com/sites/ronnyacacio-twitter-clone/deploys)
+
 <br />
 
 <p align="center">
